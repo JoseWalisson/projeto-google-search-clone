@@ -1,2 +1,2 @@
 # projeto-google-search-clone
- Criado no curso de HTML5 e CSS3.
+ Projeto criado no curso de HTML5 e CSS3.
